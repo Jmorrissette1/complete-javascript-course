@@ -8,4 +8,11 @@ let firstName  = "Jonas";
 
 
 
-console.log(firstName);
+
+
+const isIsland = "USA";
+let population = "1billion";
+const country = "America";
+let language = "English";
+
+console.log(isIsland, population, country, language);
